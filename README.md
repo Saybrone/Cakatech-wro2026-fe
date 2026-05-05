@@ -192,7 +192,7 @@ The built-in <b>high-resolution rotation sensor</b> enables accurate position an
 Our robot uses a **Ackermann steering** where the wheels are turned with linkage geometry. This method makes the robot easier to turn and keeps the overall design compact. It is highly effective for lightweight and fast-moving prototypes where simplicity and space efficiency are key.
 
 #### Servo Motor
-<table> <tr><td><img src = "other/servo motor/geek.PNG" alt="Servo motor" width = "800" </td> <td valign="top" style="padding-left: 15px;"> <b>Specifications:</b><br> Operating Voltage: 3.3V~6V<br> Rated Voltage: 4.8V<br> Rotational range: 360°<br> Maximum Torque: 1.6kg±0.2kg/cm (4.8V)<br> Maximum Speed: 45rpm (3V)<br> Weight: 20g<br><br> For steering we selected the <b>GeekServo</b>. This motor is compatible with Lego Technic parts and offers a higher speed compared to 9g motors. The output shaft features a Lego Technic axle connector, making it ideal for applications that require a high-power drive. </td> </tr> </table> 
+<table> <tr><td><img src = "other/servo_motor/geek.PNG" alt="Servo motor" width = "800" </td> <td valign="top" style="padding-left: 15px;"> <b>Specifications:</b><br> Operating Voltage: 3.3V~6V<br> Rated Voltage: 4.8V<br> Rotational range: 360°<br> Maximum Torque: 1.6kg±0.2kg/cm (4.8V)<br> Maximum Speed: 45rpm (3V)<br> Weight: 20g<br><br> For steering we selected the <b>GeekServo</b>. This motor is compatible with Lego Technic parts and offers a higher speed compared to 9g motors. The output shaft features a Lego Technic axle connector, making it ideal for applications that require a high-power drive. </td> </tr> </table> 
 
 ### Chassis <a class="anchor" id="chassis"></a>
 Our chassis combines LEGO components with custom 3D-printed parts, creating a reliable and durable structure. The chassis provides mounting points for all motors, controllers, and sensors, ensuring stable alignment and easy integration. Below, 3D models of the parts are included.
@@ -201,7 +201,7 @@ Our chassis combines LEGO components with custom 3D-printed parts, creating a re
 #### OpenMV Backpack
 </p> <img src="/models/backpackOpenMV/backpackOpenMV.jpeg" alt = "OpenMV Backpack" width = "500" display:block; margin:0 auto; width:400px;" />
 
-[3D Model](/models/backpackOpenMV/backpackOpenMV.jpeg)
+[3D Model](/models/backpackOpenMV/backpackOpenMV.stl)
 
        
 ## Power and Sense Management <a class="anchor" id="power-and-sense-management"></a>
