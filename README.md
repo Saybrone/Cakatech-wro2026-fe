@@ -137,7 +137,7 @@ This section covers all the parts utilized in the vehicle, such as motors, senso
     <tr>
       <td>Time of Flight Sensors</td>
       <td>VL53L0X ToF Distance Sensor</a></td>
-      <td><img src= "other/tof/tof.PNG" alt= "Time of Flight" width="143"</td>
+      <td><img src= "other/tof/tof.png" alt= "Time of Flight" width="143"</td>
       <td>$2.66x2</td>
     </tr>
     <tr>
