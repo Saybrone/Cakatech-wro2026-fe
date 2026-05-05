@@ -75,12 +75,12 @@ Learn more about the challenge [here](https://wro-association.org/wp-content/upl
 
 
 ## V-Photos <b class="anchor" id="v-photos"></a>
-| <img src="v-photos/front.jpg" width="40%" /> | <img src="v-photos/back.jpg" width="40%" /> | 
+| <img src="v-photos/front.jpeg" width="40%" /> | <img src="v-photos/back.jpeg" width="40%" /> | 
 | :--: | :--: | 
 | *Front* | *Back* |
-| <img src="v-photos/left.jpg" width="40%" /> | <img src="v-photos/right.jpg" width="40%" /> | 
+| <img src="v-photos/left.jpeg" width="40%" /> | <img src="v-photos/right.jpeg" width="40%" /> | 
 | *Left* | *Right* |
-| <img src="v-photos/top.jpg" width="40%" /> | <img src="v-photos/bottom.jpg" width="40%" /> | 
+| <img src="v-photos/top.jpeg" width="40%" /> | <img src="v-photos/bottom.jpeg" width="40%" /> | 
 | *Top* | *Bottom* |
 
 <br>
@@ -198,10 +198,10 @@ Our robot uses a **Ackermann steering** where the wheels are turned with linkage
 Our chassis combines LEGO components with custom 3D-printed parts, creating a reliable and durable structure. The chassis provides mounting points for all motors, controllers, and sensors, ensuring stable alignment and easy integration. Below, 3D models of the parts are included.
 
 
-#### Axle Adapter
-</p> <img src="/models/AxleAdapter/AxleAdapter.jpeg" alt = "axle adapter" width = "500" display:block; margin:0 auto; width:400px;" />
+#### OpenMV Backpack
+</p> <img src="/models/backpackOpenMV/backpackOpenMV.jpeg" alt = "OpenMV Backpack" width = "500" display:block; margin:0 auto; width:400px;" />
 
-[3D Model](/models/AxleAdapter/AxleAdapter.stl)
+[3D Model](/models/backpackOpenMV/backpackOpenMV.jpeg)
 
        
 ## Power and Sense Management <a class="anchor" id="power-and-sense-management"></a>
