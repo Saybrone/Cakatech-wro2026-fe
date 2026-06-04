@@ -128,7 +128,7 @@ void setup1() {
 }
 
 // -----------------------------------------------------------------------
-// getYaw — fixed-rate gyro integration (your proven implementation)
+// getYaw — fixed-rate gyro integration
 // -----------------------------------------------------------------------
 float getYaw() {
   static unsigned long last_us = micros();
@@ -190,7 +190,7 @@ void turnByDegreeReverse(float start_degree, float target_degrees,
   motor_right.runSpeed(0);
 }
 // -----------------------------------------------------------------------
-// turnByDegree — PD, full servo lock (your proven implementation)
+// turnByDegree — PD, full servo lock
 // -----------------------------------------------------------------------
 void turnByDegree(float start_degree, float target_degrees,
                   int speed_min   = TURN_SPEED_MIN,
@@ -230,7 +230,7 @@ void turnByDegree(float start_degree, float target_degrees,
 }
 int timeout = 500;
 // -----------------------------------------------------------------------
-// driveStraight — PD, encoder distance (your proven implementation)
+// driveStraight — PD, encoder distance
 // -----------------------------------------------------------------------
 void driveStraight(float start_degree,
                    int   drive_speed = STRAIGHT_SPEED,
