@@ -202,7 +202,7 @@ Our chassis combines LEGO components with custom 3D-printed parts, creating a re
 </p> <img src="/models/backpackOpenMV/backpackOpenMV.jpeg" alt = "OpenMV Backpack" width = "500" display:block; margin:0 auto; width:400px;" />
 
 [3D Model](/models/backpackOpenMV/backpackOpenMV.stl)
-!**An updated version from [Instructables by CEEOInnovations](https://www.instructables.com/Backpack-1-OpenMV-Camera/)
+#### **An updated version from [Instructables by CEEOInnovations](https://www.instructables.com/Backpack-1-OpenMV-Camera/)**
 #### Electronic Diagram
 </p> <img src= "schemes/CIRCUIT.PNG" alt = "schematic" width ="1000" >
        
